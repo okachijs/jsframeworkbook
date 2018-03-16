@@ -9,14 +9,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/okachijs/jsframeworkbook.git"
+        "url": "git+https://github.com/karad/jsFrameworkBookWriting.git"
     },
     "author": "Takahiro Ikeuchi @iktakahiro",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/okachijs/jsframeworkbook/issues"
+        "url": "https://github.com/karad/jsFrameworkBookWriting/issues"
     },
-    "homepage": "https://github.com/okachijs/jsframeworkbook#readme",
+    "homepage": "https://github.com/karad/jsFrameworkBookWriting#readme",
     "dependencies": {
         "axios": "^0.18.0",
         "react": "^16.2.0",
