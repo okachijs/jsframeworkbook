@@ -1,0 +1,27 @@
+ul
+  li(v-for="(mes) in messages")
+    el-row
+      el-col(:span="3")
+        img(src="./assets/avatar.png" width=50)
+      el-col(:span="21")
+        el-row
+          el-col(:span="3")
+           .grid-content.name {{ mes.user.name }}
+          el-col(:span="21")
+           .grid-content.date {{ mes.date }}
+
+        el-row
+          el-col(:span="24")
+            .grid-content.message {{ mes.body }}
+
+//ul
+//  li(v-for="(mes) in messages")
+//    el-container
+//      el-aside hoge
+//      el-container
+//        el-header
+//          el-row(:gutter="20")
+//            el-col(:span="4") {{ mes.user.name }}
+//            el-col(:span="4") {{ mes.date }}
+//            el-col(:span="4")
+//        el-main {{ mes.body }}

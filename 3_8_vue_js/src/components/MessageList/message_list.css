@@ -1,0 +1,20 @@
+.el-table {
+  width: 100%;
+}
+.grid-content {
+  min-height: 25px;
+  padding: 0 6px;
+}
+.name {
+  font-weight: bold;
+  font-size: 12px;
+  text-align: center;
+}
+
+.date {
+  font-size: 12px;
+}
+
+.message {
+  font-size: 14px;
+}

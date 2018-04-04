@@ -1,0 +1,25 @@
+el-container
+  el-aside
+    ul
+      li(v-for="(channel) in channels")
+        router-link(:to="{name: 'channel', params: { cname: channel }}") {{ channel }}
+  el-container
+    el-header {{ $route.params.cname  }}
+    el-main
+      message-list(:messages='messages')
+    el-footer
+      el-input(type="text" v-model="message")
+      el-button("@click"="send_message") SEND
+
+//.view
+//  .chanel
+//    ul
+//      li(v-for="(channel) in channels")
+//        router-link(:to="{name: 'channel', params: { cname: channel }}") {{ channel }}
+//  .channel-name {{ $route.params.cname  }}
+//  .messages
+//    message-list(:messages='messages')
+//
+//  .form
+//      input(type="text" v-model="message")
+//      input(type="button" value="SEND" "@click"="send_message")
