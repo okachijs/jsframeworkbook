@@ -1,0 +1,6 @@
+<mat-form-field class="form">
+  <input [(ngModel)]="message" matInput placeholder="Type your message...">
+</mat-form-field>
+<button color="default" mat-raised-button (click)="sendMessage()"
+        [disabled]="!message">Send
+</button>
