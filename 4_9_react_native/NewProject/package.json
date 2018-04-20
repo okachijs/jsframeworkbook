@@ -1,0 +1,24 @@
+{
+  "name": "NewProject",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "react": "16.3.0-alpha.2",
+    "react-native": "0.54.2"
+  },
+  "devDependencies": {
+    "babel-jest": "23.0.0-alpha.0",
+    "babel-preset-react-native": "4.0.0",
+    "flow-bin": "^0.65.0",
+    "jest": "23.0.0-alpha.0",
+    "react-test-renderer": "16.3.0-alpha.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
