@@ -24,7 +24,7 @@ React、Angular、Vue.js、React Nativeを使って学ぶ
 - 小松 大輔
 - 永井 孝
 - 池内 孝啓
-- 新井 正貴
+- [新井 正貴](https://massa142.github.io/)
 - 橋本 安司
 - 日野 洋一郎
 
