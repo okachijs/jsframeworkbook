@@ -1,0 +1,1 @@
+let output = identity<string>("taro");
