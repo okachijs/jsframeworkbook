@@ -8,9 +8,11 @@ module.exports = [{
         historyApiFallback: true,
     },
     context: path.resolve(__dirname, 'src'),
-    entry: './1.1/Routes.tsx',
+    entry: './Routes.tsx',
     output: {
-        filename: './dist/js/build.js'
+        path: __dirname + "/dist/js",
+        filename: 'build.js',
+        publicPath: '/dist/js',
     },
     module: {
         rules: [
@@ -26,6 +28,6 @@ module.exports = [{
             path.join(__dirname, 'src'),
             'node_modules'
         ],
-        extensions: ['.ts', '.tsx', '.js']
-    }
+        extensions: ['.ts', '.tsx', '.js'],
+    },
 }];
