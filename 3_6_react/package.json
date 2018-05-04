@@ -4,6 +4,7 @@
     "description": "A sample application using React",
     "main": "index.js",
     "scripts": {
+        "build": "webpack --mode production",
         "start": "webpack-dev-server --mode development --content-base ./dist --hot --inline --colors --port 3000 --open",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
