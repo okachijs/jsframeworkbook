@@ -16,12 +16,12 @@
 │   ├── components
 │   └── containers
 ├── src_making
-│   ├── 0.2
-│   ├── 0.3
-│   ├── 0.4-0.5
-│   ├── 0.6
-│   ├── 0.7
-│   └── 1.0
+│   ├── v0.1
+│   ├── v0.2
+│   ├── v0.3
+│   ├── v0.4
+│   ├── v0.5
+│   └── v0.9
 ├── tsconfig.json
 ├── tslint.json
 └── webpack.config.js
@@ -31,6 +31,12 @@ Directory | Description
 :-------: | -----------
 src | 完成後のアプリケーションのソースコードです
 src_making | 完成前のアプリケーションのソースコードです
+src_making/v0.1 | p83「チャンネル一覧 Component の実装」
+src_making/v0.2 | p85「Routing設定 Component の実装」
+src_making/v0.3 | p88「メッセージフィード Component の実装」
+src_making/v0.4 | p94「メッセージフォーム Component の実装」
+src_making/v0.5 | p99「Component間の連携」
+src_making/v0.9 | p99 までの内容をまとめたもの
 
 ## npm Commands
 
