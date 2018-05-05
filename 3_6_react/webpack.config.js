@@ -8,8 +8,8 @@ module.exports = [{
         historyApiFallback: true,
     },
     context: path.resolve(__dirname, 'src'),
-    // If you would like to build making version:
-    context: path.resolve(__dirname, 'src_making/v0.9'),
+    // If you would like to build a making version:
+    // context: path.resolve(__dirname, 'src_making/v0.9'),
     entry: './Routes.tsx',
     output: {
         path: __dirname + "/dist/js",
