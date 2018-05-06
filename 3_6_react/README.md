@@ -36,7 +36,7 @@ src_making/v0.2 | p85「Routing設定 Component の実装」
 src_making/v0.3 | p88「メッセージフィード Component の実装」
 src_making/v0.4 | p94「メッセージフォーム Component の実装」
 src_making/v0.5 | p99「Component間の連携」
-src_making/v0.9 | p99 までの内容をまとめたもの
+src_making/v0.9 | v0.5 までの内容をまとめたもの
 
 ## npm Commands
 

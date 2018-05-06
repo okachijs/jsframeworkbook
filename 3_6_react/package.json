@@ -1,6 +1,6 @@
 {
     "name": "react-sample-app",
-    "version": "1.1.0",
+    "version": "1.0.0",
     "description": "A sample application using React",
     "main": "index.js",
     "scripts": {
@@ -10,14 +10,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/karad/jsFrameworkBookWriting.git"
+        "url": "git+https://github.com/okachijs/jsframeworkbook.git"
     },
     "author": "Takahiro Ikeuchi @iktakahiro",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/karad/jsFrameworkBookWriting/issues"
+        "url": "https://github.com/okachijs/jsframeworkbook/issues"
     },
-    "homepage": "https://github.com/karad/jsFrameworkBookWriting#readme",
+    "homepage": "https://github.com/okachijs/jsframeworkbook#readme",
     "dependencies": {
         "axios": "^0.18.0",
         "react": "^16.2.0",
