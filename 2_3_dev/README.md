@@ -31,19 +31,19 @@ npm インストール
 npm i
 ```
 
-developmentモードでビルドする
+development モードでビルドする
 
 ```
 npm run build:dev
 ```
 
-productionモードでビルドする
+production モードでビルドする
 
 ```
 npm run build:prd
 ```
 
-webpack-dev-serverを起動する
+webpack-dev-server を起動する
 
 ```
 npm run start
