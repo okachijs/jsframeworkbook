@@ -17,7 +17,7 @@ Directory | Description
 :-------: | -----------
 images | サンプルアプリケーション
 NewProject | p172 「React Native 事始め」で解説しているサンプルコードのプロジェクトです
-ReactNativeChat | 「サンプルアプリケーションの実装で学ぶReact  Native」で解説しているサンプルコードのプロジェクトです
+ReactNativeChat | p181「サンプルアプリケーションの実装で学ぶReact  Native」で解説しているサンプルコードのプロジェクトです
 
 ## Android Studio のバージョンいついて
 
