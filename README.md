@@ -20,7 +20,7 @@ React、Angular、Vue.js、React Nativeを使って学ぶ
 ### 著者
 
 - 原 一浩
-- taisa
+- [taisa](https://twitter.com/taisa831)
 - 小松 大輔
 - 永井 孝
 - [池内 孝啓](https://twitter.com/iktakahiro)
