@@ -13,7 +13,7 @@
 
 Directory | Description
 :-------: | -----------
-images | サンプルアプリケーション
+images | サンプルアプリケーション開発で使用する画像を格納しています
 NewProject | p172 「React Native 事始め」で解説しているサンプルコードのプロジェクトです
 ReactNativeChat | p181「サンプルアプリケーションの実装で学ぶReact  Native」で解説しているサンプルコードのプロジェクトです
 
