@@ -68,8 +68,8 @@ npm run build
 
 ページ | 誤 | 正
 ----- | ---| ---
-86 | webpack.config.json | webpack.config.js
 77 | ※ 下記参照 | --
+86 | webpack.config.json | webpack.config.js
 
 ### 77ページ componentDidUpdate() と componentDidMount() の説明に関する誤植
 
