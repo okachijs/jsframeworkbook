@@ -63,3 +63,20 @@ npm run start
 ```bash
 npm run build
 ```
+
+## 正誤表
+
+ページ | 誤 | 正
+----- | ---| ---
+86 | webpack.config.json | webpack.config.js
+77 | ※ 下記参照 | --
+
+### 77ページ componentDidUpdate() と componentDidMount() の説明に関する誤植
+
+#### 誤
+
+初回のマウント時に実行されるのcomponentDidMounted()です。componentDidMounted()では、「外部からHTTP リクエストでデータを取得する処理の呼び出し」を行ってよいと述べました。componentDidMount()はマウント時の一度だけ実行されるメソッドですので、propsやstateの更新に応じて（2 回目以降の）HTTPリクエストを送信したい場合はcomponentDidMount()を利用するのがよいでしょう。
+
+#### 正
+
+初回のマウント時に実行されるのcomponentDidMount()です。componentDidMount()では、「外部からHTTP リクエストでデータを取得する処理の呼び出し」を行ってよいと述べました。componentDidMount()はマウント時の一度だけ実行されるメソッドですので、propsやstateの更新に応じて（2 回目以降の）HTTPリクエストを送信したい場合はcomponentDidUpdate()を利用するのがよいでしょう。
