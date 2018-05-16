@@ -2,9 +2,15 @@
 
 「第6章 React 入門 & 徹底活用」で解説しているソースコードのサンプルコードを公開しています。
 
+<<<<<<< HEAD
 ## 完成後のイメージ
 
 ![換装後のイメージ](./app-overview.png)
+=======
+## サンプルアプリケーション完成後のイメージ
+
+![完成後のイメージ](./app-overview.png)
+>>>>>>> 3a8ff36b282b6b25b24ef66bed1b5c728bb4682b
 
 ## Directory Structures
 
@@ -63,3 +69,9 @@ npm run start
 ```bash
 npm run build
 ```
+
+## 正誤表
+
+正誤表については下記をご参照ください。
+
+* [誤植訂正情報 · okachijs/jsframeworkbook Wiki](https://github.com/okachijs/jsframeworkbook/wiki/%E8%AA%A4%E6%A4%8D%E8%A8%82%E6%AD%A3%E6%83%85%E5%A0%B1)

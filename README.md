@@ -19,7 +19,7 @@ React、Angular、Vue.js、React Nativeを使って学ぶ
 
 ### 著者
 
-- 原 一浩
+- [原 一浩](http://siy-diy.io/)
 - [taisa](https://twitter.com/taisa831)
 - 小松 大輔
 - 永井 孝
@@ -42,4 +42,8 @@ React、Angular、Vue.js、React Nativeを使って学ぶ
 - [8章「Slackライクなサンプルで比べて学ぶ Vue.js入門 & 徹底活用」のサンプルコード](https://github.com/okachijs/jsframeworkbook/tree/master/3_8_vue_js)
 - [9章「Slackライクなサンプルで比べて学ぶ React Native入門 & 徹底活用」のサンプルコード](https://github.com/okachijs/jsframeworkbook/tree/master/4_9_react_native)
 
+## 誤植訂正情報
 
+誤植訂正情報はこちらのページにてご案内しております。
+
+- [誤植訂正情報](https://github.com/okachijs/jsframeworkbook/wiki/%E8%AA%A4%E6%A4%8D%E8%A8%82%E6%AD%A3%E6%83%85%E5%A0%B1)
