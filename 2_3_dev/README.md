@@ -48,3 +48,19 @@ webpack-dev-server を起動する
 ```
 npm run start
 ```
+
+## 正誤表
+
+| ページ | 誤 | 正 |
+| -----| ---- | ---- |
+| 38 | ※ 下記参照 | -- |
+
+**38ページ「リスト3 Reactサンプルコード」1行目**
+
+誤
+
+import foo from './hello';
+
+正
+
+import hello from './hello';
