@@ -59,8 +59,12 @@ npm run start
 
 誤
 
+```
 import foo from './hello';
+```
 
 正
 
+```
 import hello from './hello';
+```
