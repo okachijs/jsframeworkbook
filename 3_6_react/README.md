@@ -66,17 +66,6 @@ npm run build
 
 ## 正誤表
 
-ページ | 誤 | 正
------ | ---| ---
-77 | ※ 下記参照 | --
-86 | webpack.config.json | webpack.config.js
+正誤表については下記をご参照ください。
 
-### 77ページ componentDidUpdate() と componentDidMount() の説明に関する誤植
-
-#### 誤
-
-初回のマウント時に実行されるのcomponentDidMounted()です。componentDidMounted()では、「外部からHTTP リクエストでデータを取得する処理の呼び出し」を行ってよいと述べました。componentDidMount()はマウント時の一度だけ実行されるメソッドですので、propsやstateの更新に応じて（2 回目以降の）HTTPリクエストを送信したい場合はcomponentDidMount()を利用するのがよいでしょう。
-
-#### 正
-
-初回のマウント時に実行されるのcomponentDidMount()です。componentDidMount()では、「外部からHTTP リクエストでデータを取得する処理の呼び出し」を行ってよいと述べました。componentDidMount()はマウント時の一度だけ実行されるメソッドですので、propsやstateの更新に応じて（2 回目以降の）HTTPリクエストを送信したい場合はcomponentDidUpdate()を利用するのがよいでしょう。
+* [誤植訂正情報 · okachijs/jsframeworkbook Wiki](https://github.com/okachijs/jsframeworkbook/wiki/%E8%AA%A4%E6%A4%8D%E8%A8%82%E6%AD%A3%E6%83%85%E5%A0%B1)
