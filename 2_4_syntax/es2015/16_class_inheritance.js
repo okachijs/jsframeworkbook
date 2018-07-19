@@ -16,6 +16,6 @@ class Participant extends Person {
     }
 
     sendMessage(message) {
-        console.log(`{this.name}は{this.channel}に{message}を投稿しました`);
+        console.log(`${this.name}は${this.channel}に${message}を投稿しました`);
     }
 }
