@@ -12,10 +12,10 @@
     "react-native": "0.54.2"
   },
   "devDependencies": {
-    "babel-jest": "23.0.0-alpha.0",
+    "babel-jest": "23.0.0",
     "babel-preset-react-native": "4.0.0",
     "flow-bin": "^0.65.0",
-    "jest": "23.0.0-alpha.0",
+    "jest": "23.0.0",
     "react-test-renderer": "16.3.0-alpha.2"
   },
   "jest": {
