@@ -2,6 +2,8 @@
 
 「第6章 React 入門 & 徹底活用」で解説しているソースコードのサンプルコードを公開しています。
 
+**依存パッケージのバージョンアップにともない、書籍の内容ではエラーが発生するという issue を報告いただいたため ([Upgrade semantic\-ui\-react 0\.81\.1 by ykws · Pull Request \#20 · okachijs/jsframeworkbook](https://github.com/okachijs/jsframeworkbook/pull/20))、依存パッケージのバージョンをアップグレードしています。**
+
 ## サンプルアプリケーション完成後のイメージ
 
 ![完成後のイメージ](./app-overview.png)
