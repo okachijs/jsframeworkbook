@@ -27,7 +27,7 @@ ReactNativeChat | p181「サンプルアプリケーションの実装で学ぶR
 ## サンプルアプリケーションの実行方法
 
 p171 「React Nativeのインストール」を参考に、React Native の開発環境を用意してください。
-その後、ディレクトリ `NewProject` もしくは、`NewProject` に移動してから、下記のコマンドを実行してください。
+その後、ディレクトリ `NewProject` もしくは、`ReactNativeChat` に移動してから、下記のコマンドを実行してください。
 
 ### iOSで実行
 ```bash
